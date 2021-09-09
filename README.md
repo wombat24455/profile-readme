@@ -11,6 +11,7 @@ I currently work for [Skynode](https://github.com/skynodehost) as a support agen
 
 Apart from working on the discord bots mentioned above, I sometimes like to work on programming projects in my spare time, other than that I do a ton of gaming.
 
+---
 
 ## Bot stuff
 
@@ -19,6 +20,8 @@ Apart from working on the discord bots mentioned above, I sometimes like to work
 [Brobot](https://github.com/wombat24455/Brobot "Brobot's repo") - My latest side project, it is only self-hosted at the moment however you can still invite it by going [here](https://discord.com/api/oauth2/authorize?client_id=885593101375262762&permissions=0&scope=bot).
 
 [Anarchy Bot](https://github.com/Jelly-exe/AnarchyBot "Anarchy Bot's repo") - A bot me and a couple of friends are working on for a Minecraft Anarchy server which we run. This bot cannot be added to other servers, however the source code is publicly accessable.
+
+---
 
 ## Links
 
