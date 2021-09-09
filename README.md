@@ -11,18 +11,21 @@ I currently work for [Skynode](https://github.com/skynodehost) as a support agen
 
 Apart from working on the discord bots mentioned above, I sometimes like to work on programming projects in my spare time, other than that I do a ton of gaming.
 
-## Links
 
-[Skynode](https://skynode.pro "Thier website")
-[Anarchy discord server](https://discord.gg/WCZQyTa9XE "Join our discord server")
-[MikeHub (previously Official MikeBot support)](https://discord.gg/JKMSZds "A discord server dedicated to MikeBot")
-
-### Bot stuff
+## Bot stuff
 
 [Mikebot](https://github.com/wombat24455/MikebotDiscordBot "MikeBot's repo") - Go [here](https://discord.com/oauth2/authorize?client_id=639421464185143301&scope=bot&permissions=2146958847) to invite it.
 
 [Brobot](https://github.com/wombat24455/Brobot "Brobot's repo") - My latest side project, it is only self-hosted at the moment however you can still invite it by going [here](https://discord.com/api/oauth2/authorize?client_id=885593101375262762&permissions=0&scope=bot).
 
 [Anarchy Bot](https://github.com/Jelly-exe/AnarchyBot "Anarchy Bot's repo") - A bot me and a couple of friends are working on for a Minecraft Anarchy server which we run. This bot cannot be added to other servers, however the source code is publicly accessable.
+
+## Links
+
+[Skynode](https://skynode.pro "Thier website")
+
+[Anarchy discord server](https://discord.gg/WCZQyTa9XE "Join our discord server")
+
+[MikeHub (previously Official MikeBot support)](https://discord.gg/JKMSZds "A discord server dedicated to MikeBot")
 
 Congratulations, you have made it to the end of what is my GitHub readme.
