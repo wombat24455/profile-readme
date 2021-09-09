@@ -1,4 +1,4 @@
-# Welcome to my Github profile
+# Welcome to my GitHub profile
 
 Yeah I do coding, I also break my code a lot.
 
