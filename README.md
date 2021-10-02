@@ -11,6 +11,8 @@ I currently work for [Skynode](https://github.com/skynodehost) as a support agen
 
 Apart from working on the discord bots mentioned above, I sometimes like to work on programming projects in my spare time, other than that I do a ton of gaming.
 
+I also tend to break a lot of shit
+
 ---
 
 ## Bot stuff
