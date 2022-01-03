@@ -2,7 +2,7 @@
 
 Yeah I do coding, I also break my code a lot.
 
-I am currently working on a few discord bots, [MikeBot](https://github.com/wombat24455/MikebotDiscordBot "kinda broken rn cus of djs :("), [Brobot](https://github.com/wombat24455/Brobot "Not brobot from Jimmy Neutron") and [Anarchy bot](https://github.com/Jelly-exe/AnarchyBot "For a minecraft anarchy server run by me and some friends").
+I am currently working on a few discord bots, [MikeBot](https://github.com/wombat24455/MikebotDiscordBot "kinda broken rn cus of djs :("), [Brobot](https://github.com/wombat24455/Brobot "Not brobot from Jimmy Neutron") and [Anarchy bot](https://github.com/Jelly-exe/AnarchyBot "For a minecraft anarchy server that me and a couple of friends ran").
 MikeBot and Brobot are mainly personal projects that I use to learn [Discord.js](https://discord.js.org/#/ "Which is kinda broken atm") and more recently [Eris](https://abal.moe/Eris/ "It's like Discord.js but not broken") which I started using because Discord.js is pretty broken.
 
 ---
