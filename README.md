@@ -39,7 +39,7 @@ I also tend to break a lot of shit
 
 [Skynode](https://skynode.pro "Thier website")
 
-[Anarchy discord server](https://discord.gg/Azt7Qk3T "This project has been archived, but you can still join the discord server")
+[Anarchy discord server](https://discord.gg/562BYQURHZ "This project has been archived, but you can still join the discord server")
 
 [MikeHub (previously Official MikeBot support)](https://discord.gg/JKMSZds "A discord server dedicated to MikeBot")
 
